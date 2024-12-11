@@ -2,3 +2,4 @@ garethflowers/svn-server
 nginx
 hub.zentao.net/app/zentao:20.4
 postgres
+oracleinanutshell/oracle-xe-11g
