@@ -7,3 +7,4 @@ iatebes/oracle_11g
 nomhiro1204/oracle21c
 fluigfws/oracle12c
 eosphorosai/dbgpt
+unclecode/crawl4ai
